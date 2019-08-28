@@ -79,7 +79,7 @@ public ListNode reverse(ListNode head) {
 
 While it may not be apparent at first glance, this solution pretty much follows the steps of the strategy discussed earlier. The fact we cannot tell it is so is a good indicator that refactoring is in order.
 
-(Since reversing a linked list is a separate question which got its own chapter, I'm not going to get look into it here.)
+(Since reversing a linked list is a separate question which got its own chapter, I'm not going to get into it here.)
 
 
 
